@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loblaw Digital</string>
+    <string name="product_code_title">Product code</string>
+    <string name="error_message">There is a trouble loading data.\nPlease try again later.</string>
+</resources>
